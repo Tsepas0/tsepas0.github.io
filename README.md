@@ -23,7 +23,7 @@ This site is built to:
 
 Feel free to explore the source code or visit the live site:
 
-🔗 **Live Site**: [https://teo003.github.io](https://teo003.github.io)
+🔗 **Live Site**: [https://tsepas0.github.io](https://tsepas0.github.io)
 
 ---
 
